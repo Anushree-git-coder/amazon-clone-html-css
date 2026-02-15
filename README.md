@@ -18,4 +18,4 @@ This project was built to practice frontend development and improve layout struc
 
 Author:
 Anushree
-[Amazon Clone Screenshot](amazon-clone.png)
+[Amazon Clone Screenshot](https://github.com/Anushree-git-coder/amazon-clone-html-css/blob/main/_C__Users_anush_Documents_CLONE_index.html.png?raw=true)
