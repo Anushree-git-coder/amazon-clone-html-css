@@ -16,5 +16,6 @@ Technologies Used
 Purpose
 This project was built to practice frontend development and improve layout structuring skills.
 
-Author
+Author:
 Anushree
+[Amazon Clone Screenshot](amazon-clone.png)
