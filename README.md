@@ -32,4 +32,4 @@ This project was built to practice frontend development and improve layout struc
 
 Author:
 Anushree
-[Amazon Clone Screenshot](amazon_clone.html (1).png)
+[Amazon Clone Screenshot](amazon_clone(1).png)
