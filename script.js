@@ -1,4 +1,4 @@
-// ── 1. PRODUCT DATA ──
+// ── 1. PRODUCT DATA ─
 const products = [
   { id: 1, name: "Classic Cotton T-Shirt",    category: "Clothes",                  price: 499,  image: "box1_image.jpg", rating: 4.3 },
   { id: 2, name: "Vitamin C Serum",           category: "Health & Personal Care",   price: 349,  image: "box2_image.jpg", rating: 4.6 },
